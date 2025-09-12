@@ -8,6 +8,7 @@ A fun Stone Paper Scissors game built with **HTML, CSS, and JavaScript**.
 Play against the computer and test your luck!
 <br>
 ## Features
+<br>
 - Simple and interactive UI
 <br>
 - Play against computer
