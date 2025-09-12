@@ -3,5 +3,17 @@ Author - Ankur Gangwar
 <br>
 This is an online game
 <br>
-I have developed this game using simple HTML, CSS and JavaScript
+A fun Stone Paper Scissors game built with **HTML, CSS, and JavaScript**. 
+<br>
+Play against the computer and test your luck!
+<br>
+## Features
+<br>
+- Simple and interactive UI
+<br>
+- Play against computer
+<br>
+- Shows result instantly
+<br>
+- Restart option
 
